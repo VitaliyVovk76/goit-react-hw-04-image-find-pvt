@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-image-find-pvt/static/css/main.6ff1c2a0.css",
+    "main.js": "/goit-react-hw-04-image-find-pvt/static/js/main.ba647fa1.js",
+    "static/js/787.09d3f593.chunk.js": "/goit-react-hw-04-image-find-pvt/static/js/787.09d3f593.chunk.js",
+    "static/media/error.jpg": "/goit-react-hw-04-image-find-pvt/static/media/error.7d86105a62bf3b28ec78.jpg",
+    "index.html": "/goit-react-hw-04-image-find-pvt/index.html",
+    "main.6ff1c2a0.css.map": "/goit-react-hw-04-image-find-pvt/static/css/main.6ff1c2a0.css.map",
+    "main.ba647fa1.js.map": "/goit-react-hw-04-image-find-pvt/static/js/main.ba647fa1.js.map",
+    "787.09d3f593.chunk.js.map": "/goit-react-hw-04-image-find-pvt/static/js/787.09d3f593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff1c2a0.css",
+    "static/js/main.ba647fa1.js"
+  ]
+}
